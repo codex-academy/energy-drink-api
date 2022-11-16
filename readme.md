@@ -39,8 +39,8 @@ We will focus on these API endpoints initially:
 
 
 URL route | HTTP Type | Parameters
---------------|----------|
-route | POST or GET | params needed
+--------------|----------|--------|
+route | POST or GET | params needed|
 
 
 ## Database setup
