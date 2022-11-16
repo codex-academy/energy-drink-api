@@ -26,12 +26,22 @@ The API should be able to do a few things:
 
 > **Note:** The API can be extended to return nutritional information for a given drink. Can you go and find this information for us. This would supply very interesting information to our API users.
 
-Initially we will focus on these API endpoints:
+
+
+## API endpoints to start with
+
+We will focus on these API endpoints initially:
 
 * return which energy drinks can be consumed
 * return a list of all the days of the week - ordered by Monday to Sunday
 * return which energy drinks were consumed for a given day of the week
 * record that a given energy drink was drank on a given week day
+
+
+URL route | HTTP Type | Parameters
+--------------|----------|
+route | POST or GET | params needed
+
 
 ## Database setup
 
