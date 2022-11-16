@@ -3,7 +3,7 @@
 In this workshop we will be creating an API that keeps track of energy drink consumption.
 
 
-<img src="images/switch.jpeg" width="400">
+<img src="[images/switch.jpeg](https://github.com/codex-academy/energy-drink-api/blob/3597b03eed8cea9d281b12f3a603b13c9dc2c877/images/monsters.png)" width="400">
 <img src="./images/monsters.jpeg" width="400">
 
 
