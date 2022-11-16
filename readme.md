@@ -3,8 +3,8 @@
 In this workshop we will be creating an API that keeps track of energy drink consumption.
 
 
-<img src="https://github.com/codex-academy/energy-drink-api/blob/3597b03eed8cea9d281b12f3a603b13c9dc2c877/images/monsters.png" width="400" style="display:inline-block">
-<img src="https://github.com/codex-academy/energy-drink-api/blob/42c1ee765ce9a0bf455be1b5d7b9d111a107e3e8/images/switch.png" width="400" style="display:inline-block" >
+<img src="https://github.com/codex-academy/energy-drink-api/blob/3597b03eed8cea9d281b12f3a603b13c9dc2c877/images/monsters.png" width="400" style="display:'inline-block'">
+<img src="https://github.com/codex-academy/energy-drink-api/blob/42c1ee765ce9a0bf455be1b5d7b9d111a107e3e8/images/switch.png" width="400" style="display:'inline-block'" >
 
 
 The API should be able to do a few things:
