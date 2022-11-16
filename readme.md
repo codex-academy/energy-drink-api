@@ -2,6 +2,11 @@
 
 In this workshop we will be creating an API that keeps track of energy drink consumption.
 
+
+<img src="./images/switch.jpeg" width="400">
+<img src="./images/monsters.jpeg" width="400">
+
+
 The API should be able to do a few things:
 
 * return which energy drinks can be consumed
