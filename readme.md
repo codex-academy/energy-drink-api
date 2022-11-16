@@ -1,7 +1,6 @@
 # Energy drink API
 
-In this workshop we will be creating an API that keeps track of energy drink consumption.
-
+In this workshop we look at how to create an API bycreating an API that keeps track of energy drink consumption.
 
 <p float="left">
 <img src="https://github.com/codex-academy/energy-drink-api/blob/3597b03eed8cea9d281b12f3a603b13c9dc2c877/images/monsters.png" width="300" style="display:'inline-block'">
