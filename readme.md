@@ -39,8 +39,10 @@ We will focus on these API endpoints initially:
 
 URL route | HTTP Type | Parameters
 --------------|----------|--------|
-route | POST or GET | params needed|
-
+`/api/energy_drinks` | GET | none |
+`/api/days` | GET | none |
+`/api/energy_drink` |POST| drink_id & day_id
+`/api/energy_drinks/day/:week_day_id` | GET | day_id  
 
 ## Database setup
 
@@ -70,7 +72,7 @@ To find images for our energy drinks - 1 can images only.
 
 * PostgreSQL
 * REST Client
-* [express.json](https://masteringjs.io/tutorials/express/express-json) - to make POST routes worko
+* [express.json](https://masteringjs.io/tutorials/express/express-json) - to make POST routes work
 * [CORS](https://www.npmjs.com/package/cors) - CORS to enable us to call the API from GitHub Pages and beyond
 
 
